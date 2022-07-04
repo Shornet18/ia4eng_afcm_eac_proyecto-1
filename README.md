@@ -6,6 +6,6 @@ A partir de unos datasets proporcionados por la plataforma Kaggle, se predecirá
 ## Miembros del grupo
 
 - Andrés Felipe Cerón Muñoz, CC 1061802869, Ingeniería Eléctrica
-- Esteban Agudelo Casas, CC , Ingeniería Eléctrica
+- Esteban Agudelo Casas, CC 1020488591, Ingeniería Eléctrica
 
 Los datos del DataSet son provenientes de [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
