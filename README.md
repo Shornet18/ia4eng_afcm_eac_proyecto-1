@@ -13,3 +13,4 @@ Los datos del DataSet son provenientes de [House Prices - Advanced Regression Te
 ## Vídeos
 
 - [Vídeo Segunda Entrega](https://www.youtube.com/watch?v=nonqJFQ-So8&ab_channel=ANDRESFELIPECERONMU%C3%91OZ)
+- [Vídeo Entrega Final](https://youtu.be/pHfV5shQ_G8)
